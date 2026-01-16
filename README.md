@@ -6,11 +6,11 @@ Simple calculator app created using QT Creator
 
 # Project goals
 
-The purpose of this project is to make myself more familiar with the development process using QT Creator and linux machine as a development platform.
+The purpose of this project is to make myself more familiar with the development process using Github, QT Creator and linux machine as a development platform.
 
 In the beginning of this project I will start by making a simple calculator functionality. Later on I will add the extra functionality.
 
-Later I'm planning on adding more advanced features to the app which may include the following:
+## Advanced features may include the following:
 
 -Enthalpy calculation for humid air
 
